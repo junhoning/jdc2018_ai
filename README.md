@@ -10,10 +10,9 @@
 
 먼저 Github에 올라온 ipynb 파일들 중 하나에 들어갑니다. 
 
-![screenshot](../source/Untitled-340aa2ac-6e05-4c59-ae26-260a537f7383.png)
+![screenshot](https://github.com/junhoning/jdc2018_ai/tree/master/source/Untitled-340aa2ac-6e05-4c59-ae26-260a537f7383.png)
 
-위의 링크 `https://github.com/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb` 에서 `https://github.com`](https://github.com/)을 떼고 [`https://colab.research.google.com/github`을 아래와 같이
- 붙여 주면 됩니다. 
+위의 링크 `https://github.com/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb` 에서 `https://github.com`](https://github.com/)을 떼고 `https://colab.research.google.com/github`을 아래와 같이 붙여 주면 됩니다. 
 
 `https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb`
 
