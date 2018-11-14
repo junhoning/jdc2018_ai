@@ -10,17 +10,18 @@
 
 먼저 Github에 올라온 ipynb 파일들 중 하나에 들어갑니다. 
 
-![](Untitled-340aa2ac-6e05-4c59-ae26-260a537f7383.png)
+![screenshot](../source/Untitled-340aa2ac-6e05-4c59-ae26-260a537f7383.png)
 
-위의 링크 [`https://github.com/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb`](https://github.com/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb) 에서 [`https://github.com`](https://github.com/)을 떼고 [`https://colab.research.google.com/github`](https://colab.research.google.com/github)을 아래와 같이
+위의 링크 `https://github.com/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb` 에서 `https://github.com`](https://github.com/)을 떼고 [`https://colab.research.google.com/github`을 아래와 같이
  붙여 주면 됩니다. 
 
- [`https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb`](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb)
+`https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb`
+
 
 **예시** 
 
 - [VGG_Model_for_Cifar10.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb)
 - [VGG_Model_for_Fashion MNIST.ipynb](https://colab.research.google.com/github/jdc2018_ai/blob/master/VGG_Model_for_Fashion%20MNIST.ipynb)
-- [VGG_Model_for_MNIST.ipynb](https://colab.research.google.com/VGG_Model_for_Fashion)
+- [VGG_Model_for_MNIST.ipynb](https://colab.research.google.com/VGG_Model_for_MNIST.ipynb)
 - [Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Face%20Generation.ipynb)
 - Object Detection.ipynb
