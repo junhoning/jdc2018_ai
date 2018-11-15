@@ -22,5 +22,5 @@
 - [VGG_Model_for_Cifar10.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb)
 - [VGG_Model_for_Fashion MNIST.ipynb](https://colab.research.google.com/github/jdc2018_ai/blob/master/VGG_Model_for_Fashion%20MNIST.ipynb)
 - [VGG_Model_for_MNIST.ipynb](https://colab.research.google.com/VGG_Model_for_MNIST.ipynb)
-- [Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Face%20Generation.ipynb)
-- Object Detection.ipynb
+- [Hub_Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Face%20Generation.ipynb)
+- [Hub_Object Detection.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Object%20Detection.ipynb)
