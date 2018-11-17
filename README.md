@@ -20,7 +20,8 @@
 **예시** 
 
 - [VGG_Model_for_Cifar10.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_Cifar10.ipynb)
-- [VGG_Model_for_Fashion MNIST.ipynb](https://colab.research.google.com/github/jdc2018_ai/blob/master/VGG_Model_for_Fashion%20MNIST.ipynb)
+- [VGG_Model_for_Fashion MNIST.ipynb](https://colab.research.google.com/github/jdc2018_ai/blob/master/VGG_Model_for_Fashion_MNIST.ipynb)
 - [VGG_Model_for_MNIST.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_MNIST.ipynb)
-- [Hub_Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Face%20Generation.ipynb)
-- [Hub_Object Detection.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Object%20Detection.ipynb)
+- [Hub_Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Face_Generation.ipynb)
+- [Hub_Object Detection.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Object_Detection.ipynb)
+- [Hub_Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_ImageNet_Generation.ipynb)
