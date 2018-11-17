@@ -24,4 +24,4 @@
 - [VGG_Model_for_MNIST.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/VGG_Model_for_MNIST.ipynb)
 - [Hub_Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Face_Generation.ipynb)
 - [Hub_Object Detection.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_Object_Detection.ipynb)
-- [Hub_Face Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_ImageNet_Generation.ipynb)
+- [Hub_ImageNet_Generation.ipynb](https://colab.research.google.com/github/junhoning/jdc2018_ai/blob/master/Hub_ImageNet_Generation.ipynb)
